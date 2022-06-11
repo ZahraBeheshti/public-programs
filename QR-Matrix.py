@@ -44,4 +44,4 @@ QQt = Q.dot(Q.T)
 print('\nQQt : \n', QQt.round(decimals=3))
 
 print('\nKian Function : %.15f' % np.linalg.norm(A - Q.dot(R)))
-print('Python Package: %.15f' % np.linalg.norm(A - q.dot(r)))
+print('Python Package: %.15f' % np.linalg.norm(A - q.dot(r)))import random
